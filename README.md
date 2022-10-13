@@ -36,4 +36,5 @@ Microsoft Azure Portal
 # Demo URL - 
 https://youtu.be/Y3mSr3XGUOA
 
-Lastly, I am Th
+# Acknowledgement
+My sincere thanks, to Microsoft Azure and Github for providing a integrated web development environment that helped me to deploy my website effectively and without  much of a hassle. Sincere appreciation to Team of Future Ready Talent who supported and encouraged us to work on this project.
