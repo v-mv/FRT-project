@@ -38,3 +38,6 @@ https://youtu.be/Y3mSr3XGUOA
 
 # Acknowledgement
 My sincere thanks, to Microsoft Azure and Github for providing a integrated web development environment that helped me to deploy my website effectively and without  much of a hassle. Sincere appreciation to Team of Future Ready Talent who supported and encouraged us to work on this project.
+
+#Closure
+This project was submitted on 13 October 2022 and was successfully verified and certificate was also recieved on the same date. Hence this project won't be maintained anymore and has reached it's End of Life. 
